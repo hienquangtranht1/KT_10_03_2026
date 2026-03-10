@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mongoose": "^9.2.4",
+    "nodemon": "^3.1.14",
+    "visual": "^0.0.1"
+  }
+}
